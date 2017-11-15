@@ -1,0 +1,16 @@
+h1{
+  font-size: 50px;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+.best{
+  color:yellow;
+  font-style:oblique;
+  font-size:35px;
+}
+body{
+  background-color:orange;
+}
